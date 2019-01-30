@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.2)  29 JAN 2019 16:45
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.2)  30 JAN 2019 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -722,12 +722,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (12.08876pt too wide) detected at line 85
+Overfull \hbox (12.08876pt too wide) detected at line 84
 []
  []
 
 
-Overfull \hbox (13.6559pt too wide) detected at line 97
+Overfull \hbox (13.6559pt too wide) detected at line 96
 []
  []
 
@@ -740,38 +740,22 @@ File: FIG3.png Graphic file (type bmp)
 <FIG3.png>
 File: FIG4.png Graphic file (type bmp)
 <FIG4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+ [3]
 File: FIG5.png Graphic file (type bmp)
 <FIG5.png>
-
-Underfull \vbox (badness 6542) has occurred while \output is active []
-
- [3]
 File: FIG6.png Graphic file (type bmp)
 <FIG6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+ [4]
 File: FIG7.png Graphic file (type bmp)
 <FIG7.png>
 File: FIG8.png Graphic file (type bmp)
 <FIG8.png>
 File: FIG9.png Graphic file (type bmp)
 <FIG9.png>
-
-Underfull \vbox (badness 6316) has occurred while \output is active []
-
- [4]
 File: FIG10.png Graphic file (type bmp)
 <FIG10.png>
-
-[5]
-Underfull \vbox (badness 5388) has occurred while \output is active []
-
- [6]
-Underfull \hbox (badness 5260) in paragraph at lines 275--276
+ [5] [6]
+Underfull \hbox (badness 5260) in paragraph at lines 272--273
 \TU/ptm/bx/n/9 flicts: A statistical physics model, Physica A,
  []
 
@@ -782,6 +766,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./competing_layer.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (\end occurred when \ifx on line 161 was incomplete) 
