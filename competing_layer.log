@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.2)  30 JAN 2019 19:29
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.2)  26 FEB 2019 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -722,12 +722,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (12.08876pt too wide) detected at line 84
+Overfull \hbox (12.08876pt too wide) detected at line 82
 []
  []
 
 
-Overfull \hbox (13.6559pt too wide) detected at line 96
+Overfull \hbox (13.6559pt too wide) detected at line 94
 []
  []
 
@@ -740,30 +740,42 @@ File: FIG3.png Graphic file (type bmp)
 <FIG3.png>
 File: FIG4.png Graphic file (type bmp)
 <FIG4.png>
- [3]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: FIG5.png Graphic file (type bmp)
 <FIG5.png>
+
+Underfull \vbox (badness 6542) has occurred while \output is active []
+
+ [3]
 File: FIG6.png Graphic file (type bmp)
 <FIG6.png>
- [4]
 File: FIG7.png Graphic file (type bmp)
 <FIG7.png>
 File: FIG8.png Graphic file (type bmp)
 <FIG8.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 6188) has occurred while \output is active []
+
+ [4]
 File: FIG9.png Graphic file (type bmp)
 <FIG9.png>
 File: FIG10.png Graphic file (type bmp)
 <FIG10.png>
- [5] [6]
-Underfull \hbox (badness 5260) in paragraph at lines 272--273
-\TU/ptm/bx/n/9 flicts: A statistical physics model, Physica A,
- []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
-(./competing_layer.aux)
+ [5]
+[6]
+Underfull \hbox (badness 5260) in paragraph at lines 241--242
+\TU/ptm/bx/n/9 flicts: A statistical physics model, Physica A,
+ []
+
+[7] (./competing_layer.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -772,10 +784,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  15477 strings out of 492933
  273514 string characters out of 6134842
- 512196 words of memory out of 5000000
+ 513196 words of memory out of 5000000
  19331 multiletter control sequences out of 15000+600000
  544265 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 42i,14n,40p,1292b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,14n,40p,1861b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on competing_layer.pdf (7 pages).
