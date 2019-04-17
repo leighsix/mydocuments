@@ -1,0 +1,74 @@
+\begin{table}[!htb]
+  \centering
+  \caption{Model Rank of consensus state}
+  \label{tab1}
+  \begin{center}
+  \begin{tabular}{l|l|l|l|l|l|l|l} \hline\hline
+    Div      & Consensus Ratio   & Positive Consensus     & Negative Consensus  \\ \hline\hline
+    1			& RR(5)-RR(2)       & RR(5)-RR(2)             & RR(2)-RR(5)   \\ \hline
+    2			& Leader Model      & RR(2)-RR(2)    			 & Leader Model   \\ \hline
+    3			& RR(2)-RR(2)       & Leader Model				 & DSN Model(RR-BA)   \\ \hline
+    4			& Basic Model       & RR(10)-RR(5) 			    & Basic Model   \\ \hline  
+    5			& RR(2)-RR(5)       & DSN Model(BA-RR) 		 & RR(2)-RR(2)   \\ \hline 
+    6			& RR(10)-RR(5)      & Basic Model 				 & DSN Model(BA-BA)   \\ \hline
+    7			& DSN Model(BA-RR)  & RR(2)-RR(5) 				 & DSN Model(BA-RR)   \\ \hline 
+    8			& DSN Model(RR-BA)  & DSN Model(BA-BA) 		 & RR(10)-RR(5)   \\ \hline 
+    9			& DSN Model(BA-BA)  & DSN Model(RR-BA) 		 & RR(5)-RR(2)   \\ \hline 
+    \hline
+  \end{tabular}
+ \end{center}
+\end{table}
+
+
+\begin{table*}[!htb]
+  \centering
+  \caption{Consensus properties of Basic Model}
+  \label{tab1}
+  \begin{center}
+  \begin{tabular}{l|l|l|l|l|l|l|l|l|l} \hline\hline
+    Div               & A nodes & B nodes     & A edges   & B edges   & A-B edges  & AS    & PCR    & NCR    & CR       \\ \hline \hline
+    Basic Model(30)   & 2048    & 2048        & 5,120     & 5,120     & 0          &       & 0.4033 & 0.0886 & 0.4920   \\ \hline
+    Basic Model(100)  & 2048    & 2048        & 5,120     & 5,120     & 0          &       & 0.4983 & 0.0859 & 0.5843   \\ \hline
+    Leader Model      & 2048 	& 128      	 & 5,120     & 320       & 4,800      &       & 0.6782 & 0.1148 & 0.7930   \\ \hline
+    DSN Model(BA-RR)  & 2048 	& 2048        & 10,215    & 5,120     & 5,095      &       & 0.4301 & 0.0369 & 0.4670   \\ \hline  
+    DSN Model(RR-BA)  & 2048 	& 2048        & 5,120     & 10,215    & -5,095     &       & 0.1440 & 0.1136 & 0.2576   \\ \hline 
+    DSN Model(BA-BA)  & 2048 	& 2048        & 10,215    & 10,215    & 0          &       & 0.1541 & 0.0440 & 0.1981   \\ \hline
+    RR(2)-RR(2)       & 2048 	& 2048        & 2,048     & 2,048     & 0          &       & 0.6954 & 0.0369 & 0.7323   \\ \hline 
+    RR(2)-RR(5)       & 2048 	& 2048        & 2,048     & 5,120     & -3,072     &       & 0.2409 & 0.2255 & 0.4664   \\ \hline 
+    RR(5)-RR(2)       & 2048 	& 2048        & 5,120     & 2,048     & 3,072      &       & 0.9137 & 0.0315 & 0.9453   \\ \hline
+    RR(10)-RR(5)      & 2048 	& 2048        & 10,240    & 5,120     & 5,120      &       & 0.4587 & 0.0340 & 0.4926   \\ \hline
+    \hline
+  \end{tabular}
+ \end{center}
+\end{table*}
+
+
+
+
+
+
+\begin{table*}[!htb]
+  \centering
+  \caption{Consensus properties of Simulation Models}
+  \label{tab1}
+  \begin{center}
+  \begin{tabular}{l|l|l|l|l|l|l|l|l} \hline\hline
+    Div               & A nodes & B nodes    & A edges   & B edges   & AS(total)    & PCR    & NCR    & CR       \\ \hline \hline
+    Basic Model(30)   & 2048    & 2048       & 5,120     & 5,120     & 0.9520       & 0.3968 & 0.0773 & 0.4741   \\ \hline
+    Basic Model(100)  & 2048    & 2048       & 5,120     & 5,120     & 1.1315       & 0.4928 & 0.0759 & 0.5687   \\ \hline
+    DSN Model(RR-BA)  & 2048 	& 2048       & 5,120     & 10,215    & 0.2794       & 0.1356 & 0.0993 & 0.2350   \\ \hline 
+    DSN Model(BA-RR)  & 2048 	& 2048       & 10,215    & 5,120     & 1.1245       & 0.4236 & 0.0291 & 0.4527   \\ \hline
+    DSN Model(BA-BA)  & 2048 	& 2048       & 10,215    & 10,215    & 0.4394       & 0.1446 & 0.0315 & 0.1761   \\ \hline
+    RR(10)-RR(5)      & 2048 	& 2048       & 10,240    & 5,120     & 1.1551       & 0.4307 & 0.0286 & 0.4593   \\ \hline
+    RR(2)-RR(2)       & 2048 	& 2048       & 2,048     & 2,048     & 1.4229       & 0.6930 & 0.0309 & 0.7240   \\ \hline 
+	RR(2)-RR(5)       & 2048 	& 2048       & 2,048     & 5,120     & 0.1286       & 0.2427 & 0.2165 & 0.4593   \\ \hline 
+	RR(5)-RR(2)       & 2048 	& 2048       & 5,120     & 2,048     & 1.7622       & 0.9066 & 0.0315 & 0.9381   \\ \hline
+    Leader Model(2)   & 2048 	& 1024     	 & 5,120     & 2560      &       		& 0.6782 & 0.1148 & 0.7930   \\ \hline    
+    Leader Model(4)   & 2048 	& 512      	 & 5,120     & 1280      & 1.3902      	& 0.6819 & 0.0781 & 0.7600   \\ \hline
+    Leader Model(8)   & 2048 	& 256      	 & 5,120     & 640       & 1.3535       & 0.6919 & 0.0856 & 0.7775   \\ \hline
+    Leader Model(16)  & 2048 	& 128      	 & 5,120     & 320       & 1.2701     	& 0.6731 & 0.0988 & 0.7719   \\ \hline
+    Leader Model(32)  & 2048 	& 64      	 & 5,120     & 160       & 1.1508       & 0.6231 & 0.1125 & 0.7356   \\ \hline
+    Leader Model(64)  & 2048 	& 32      	 & 5,120     & 80        &       		& 0.6782 & 0.1148 & 0.7930   \\ \hline  \hline
+  \end{tabular}
+ \end{center}
+\end{table*}

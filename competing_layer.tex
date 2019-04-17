@@ -5,6 +5,16 @@
 %\documentclass[usemulticol,english]{cccconf}
 \usepackage[comma,numbers,square,sort&compress]{natbib}
 \usepackage{epstopdf}
+\usepackage{comment}
+\usepackage{subcaption}
+\usepackage{color}
+\usepackage{lipsum}
+\usepackage{multicol}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{amsfonts}
+\usepackage{multirow}
 \usepackage{graphicx}
 \usepackage{mathtools, amssymb}
 \usepackage[comma,numbers,square,sort&compress]{natbib}
@@ -19,16 +29,7 @@
 \usepackage{booktabs}
 \usepackage{amsmath}
 %\usepackage{cite}
-\usepackage{comment}
-\usepackage{subcaption}
-\usepackage{color}
-\usepackage{lipsum}
-\usepackage{multicol}
-\usepackage{amssymb}
-\usepackage{amsmath}
-\usepackage{bm}
-\usepackage{amsfonts}
-\usepackage{multirow}
+
 
 \begin{document}
 
@@ -150,7 +151,7 @@ In Fig.3, The closer the color is to be blue, the more it has positive consensus
 \end{figure}
 In Fig.4, the fractions of positive state nodes are investigated on each layer. Fig.4 (a) shows the result of layer A. Layer A has bigger positive area than coexistence area. As the $\beta$ increases, the $\gamma$ has to be increased for the positive consensus. As the parameter of layer A dynamics, the $\gamma$ is operating properly. Fig.4 (b) shows the result of layer B. Layer B has various states as $\gamma$ and $\beta$ change. But, Almost layer B states depends on the power of $\beta$.  When $\beta$ is very small, layer B states are almost in the coexistence area. When $\beta$ is very large, layer B state are almost negative. When $\beta$ is in the middle$(0.8 < \beta < 2.25)$, the states are in the consensus area. As the parameter of layer B dynamics, the $\beta$ is also operating properly. Fig.4 (c) is the result of the summation of Fig.4 (a) and Fig.4 (b), which chart is similar as Fig.3 result. Through these charts, we can see that there is the difference between two coexistence parts where $\beta$ is very small and $\beta$ is very large. The coexistence with small $\beta$ is due to inner competition of layer B. The coexistence with large $\beta$ is due to outer competition between layer A and layer B
 \subsection{Leader Model Result}
-The Leader Model is the revised model where the number of layer B nodes is decreased from 2048 to 128 by 1/16, and increase the number of external edges by 16 times. In other words, each layer A node has one external edge, but each layer B node has 16 external edges. That is, as social network relation, we can analyze that one node of layer B represents the 16 nodes of layer A. $\gamma$ scale is same as the Basic Model. But, $\beta$ scale depends on the number of degrees. So the $\beta$ scale is adjusted to same values as the Basic Model. Fig.5 shows the Leader Model simulation results. Comparing with Basic Model, white and light parts are decreased remarkably. And it has only 1 transition part where $\beta$ is large enough. It shows that Leader Model has more consensus parts than Basic Model.
+The Leader Model is the revised model where the number of layer B nodes is decreased from 2048 to 2048 by 1/16, and increase the number of external edges by 16 times. In other words, each layer A node has one external edge, but each layer B node has 16 external edges. That is, as social network relation, we can analyze that one node of layer B represents the 16 nodes of layer A. $\gamma$ scale is same as the Basic Model. But, $\beta$ scale depends on the number of degrees. So the $\beta$ scale is adjusted to same values as the Basic Model. Fig.5 shows the Leader Model simulation results. Comparing with Basic Model, white and light parts are decreased remarkably. And it has only 1 transition part where $\beta$ is large enough. It shows that Leader Model has more consensus parts than Basic Model.
 \begin{figure}[!htb]
   \centering
   \includegraphics[width=\hsize]{FIG5.png}
@@ -158,27 +159,27 @@ The Leader Model is the revised model where the number of layer B nodes is decre
   \label{Fig5}
 \end{figure}
 \subsection{Different Structural Networks Model Result}
-So far, each layer of the interconnected network consists of random regular network that has the same number of edges for each node. Now, the simulation would be implemented with Barabasi-Albert network[16, 17]. For this simulation, each layer has 2048 nodes, 1 external edges for each node. The internal edges depend on Barabasi-Albert network(BA). So it has total 615 edges for each layer(BA is set up as average 5 internal edges), it has more 295 edges than the random regular network(RR) that has total 320 internal edges(RR is set up as 5 internal edges for each node). The simulation would be carried out, with switching each layer to RR or BA network structure.
+So far, each layer of the interconnected network consists of random regular network that has the same number of edges for each node. Now, the simulation would be implemented with Barabasi-Albert network[16, 17]. For this simulation, each layer has 2048 nodes, 1 external edges for each node. The internal edges depend on Barabasi-Albert network(BA). So it has total 10,215 edges for each layer(BA is set up as average 5 internal edges), it has more 5,095 edges than the random regular network(RR) that has total 5,120 internal edges(RR is set up as 5 internal edges for each node). The simulation would be carried out, with switching each layer to RR or BA network structure.
 \begin{figure}[!htb]
   \centering
   \includegraphics[width=\hsize]{FIG6.png}
   \caption{The simulation results for interconnected network with Different Structural Networks (a) layer A(RR)-layer B(RR), (b) layer A(BA)-layer B(BA), (c) layer A(BA)-layer B(RR), (d) layer A(RR)-layer B(BA)}
   \label{Fig6}
 \end{figure}
-In Fig.6 (a) and (b), (b) result has more white area(coexistence) than (a) result. That means increasing internal edges in both layers makes more coexistence area.In Fig.6 (c), comparing with (a), the red area(negative consensus) is decreased and the blue area(positive consensus) is increased. Since layer A is BA network that has more internal edges, it seems to have more tendency to keep layer A states.In Fig.6 (d), comparing with (a), the red area and white area are increased. Since layer B is BA network that has more internal edges, it seems to have more tendency to keep layer B states. In order to confirm the effect of the number of internal edges on the consensus, The internal edges of each node change to 2 or 5. The simulations are carried out with only RR networks that has total 320(when the number of internal edges are 5)or 128(when the number of internal edges are 2) internal edges on each layer. Fig.7 shows the simulation result with changing the number of internal edges.
+In Fig.6 (a) and (b), (b) result has more white area(coexistence) than (a) result. That means increasing internal edges in both layers makes more coexistence area.In Fig.6 (c), comparing with (a), the red area(negative consensus) is decreased and the blue area(positive consensus) is increased. Since layer A is BA network that has more internal edges, it seems to have more tendency to keep layer A states.In Fig.6 (d), comparing with (a), the red area and white area are increased. Since layer B is BA network that has more internal edges, it seems to have more tendency to keep layer B states. In order to confirm the effect of the number of internal edges on the consensus, The internal edges of each node change to 2 or 5. The simulations are carried out with only RR networks that has total 5,120(when the number of internal edges are 5)or 2048(when the number of internal edges are 2) internal edges on each layer. Fig.7 shows the simulation result with changing the number of internal edges.
 \begin{figure}[!htb]
   \centering
   \includegraphics[width=\hsize]{FIG7.png}
-  \caption{Consensus Comparison according to changing the number of internal edges on layer A and B (a) RR(128)-RR(128), (b) RR(320)-RR(128), (c) RR(128)-RR(320), (d) RR(320)-RR(320)}
+  \caption{Consensus Comparison according to changing the number of internal edges on layer A and B (a) RR(2048)-RR(2048), (b) RR(5,120)-RR(2048), (c) RR(2048)-RR(5,120), (d) RR(5,120)-RR(5,120)}
   \label{Fig7}
 \end{figure}
-As we see the result, we can find out the number of internal edges affecting consensus. In Fig.7 (b) RR(320)-RR(128), it has decreased red area(negative consensus) and increased blue area(positive consensus). As the internal edges on layer A increase, the red area get smaller and the blue area get larger. That means that it has more tendency for layer A than layer B. 
-Inversely, in Fig.7 (c) RR(128)-RR(320), it has increased red area(negative consensus) and decreased blue area(positive consensus). As the internal edges on layer B increase, the red area get larger and the blue area get smaller. That means that it has more tendency for layer B than layer A.
-In order to compare BA network with RR network that has the similar number of edges, the internal edges of RR network are increased to the similar number of BA network internal edges. The simulation was carried out with RR network that has total 640 internal edges on layer A. Layer B has RR network with 320 internal edges. The result is shown in Fig.8.
+As we see the result, we can find out the number of internal edges affecting consensus. In Fig.7 (b) RR(5,120)-RR(2048), it has decreased red area(negative consensus) and increased blue area(positive consensus). As the internal edges on layer A increase, the red area get smaller and the blue area get larger. That means that it has more tendency for layer A than layer B. 
+Inversely, in Fig.7 (c) RR(2048)-RR(5,120), it has increased red area(negative consensus) and decreased blue area(positive consensus). As the internal edges on layer B increase, the red area get larger and the blue area get smaller. That means that it has more tendency for layer B than layer A.
+In order to compare BA network with RR network that has the similar number of edges, the internal edges of RR network are increased to the similar number of BA network internal edges. The simulation was carried out with RR network that has total 10,240 internal edges on layer A. Layer B has RR network with 5,120 internal edges. The result is shown in Fig.8.
 \begin{figure}[!htb]
   \centering
   \includegraphics[width=\hsize]{FIG8.png}
-  \caption{Comparison between BA network and RR network (a) RR(640)-RR(320), (b) BA(615)-RR(320)}
+  \caption{Comparison between BA network and RR network (a) RR(10,240)-RR(5,120), (b) BA(10,215)-RR(5,120)}
   \label{Fig8}
 \end{figure}
 In Fig.8 (a), BA network simulation result has similarity with RR network that has similar number of internal edges with BA network. Therefore, we can analyze that the number of edges have influence on making consensus. In other words, the network with more internal edges tends to make consensus for that network state.
@@ -200,7 +201,7 @@ In Fig.9 (d), Dynamics steps-increased Model has more blue area(positive consens
 In Fig.10, the charts show that most of ratio on the layer A are approaching to 0 with steps proceeding, except the case that volatility is very large. The ratio on the layer B are divided by several values. All the values except 0 are made when the volatility is very large. Except the case that volatility is very large, most of them are approaching to 0. That means two layers tend to make consensus by proceeding the steps with stable $\gamma$ and $\beta$.
 \section{Comparison and Analysis}
 In this section, the simulation results are compared and analyzed with Basic Model to provide what conditions make the consensus on the interconnected networks. When the Leader Model compares with the Basic Model, we can see that the Leader Model has more consensus area than the Basic Model (White area of Leader Model is less than Basic Model), and the Basic Model has two transition parts, on the other hand, the Leader Model has just one transition part. This shows that the Basic Model has transition parts on the conditions when the $\beta$ is very small or very large. But, in case of the Leader Model, when $\beta$ is very small, it can make consensus, easily. If $\beta$ is very large, the consensus are hard to happen in the Leader Model.
-Next, the Basic Model is compared with Different Structural Networks Models. The total number of internal edges in BA is 615, and the internal edges in RR are 320. This simulation shows, how the number of internal edges affects interconnected dynamics. First, when we check the BA-RR and RR-BA simulation results, we can see that it makes more consensus with BA network layer states than RR-RR simulation. In other words, one layer with more internal edges seems to have a tendency to maintain its own state. That is, interconnected network tends to make consensus with one layer that has more internal edges. In case of two layers with same internal edges such as RR-RR network and BA-BA network, RR-RR network simulation results have more consensus parts than BA-BA simulation results. we can analyze that BA-BA simulations result has less consensus area, due to having a strong tendency to maintain their both sides. To confirm the effect of internal edges, BA network was compared with RR network that has the similar number of internal edges. The result was almost same. It can be analyzed that the network with more edges have more tendency to keep its states and make consensus for its states.
+Next, the Basic Model is compared with Different Structural Networks Models. The total number of internal edges in BA is 10,215, and the internal edges in RR are 5,120. This simulation shows, how the number of internal edges affects interconnected dynamics. First, when we check the BA-RR and RR-BA simulation results, we can see that it makes more consensus with BA network layer states than RR-RR simulation. In other words, one layer with more internal edges seems to have a tendency to maintain its own state. That is, interconnected network tends to make consensus with one layer that has more internal edges. In case of two layers with same internal edges such as RR-RR network and BA-BA network, RR-RR network simulation results have more consensus parts than BA-BA simulation results. we can analyze that BA-BA simulations result has less consensus area, due to having a strong tendency to maintain their both sides. To confirm the effect of internal edges, BA network was compared with RR network that has the similar number of internal edges. The result was almost same. It can be analyzed that the network with more edges have more tendency to keep its states and make consensus for its states.
 Next, Dynamics steps-increased Model was compared. A model that increases the number of steps seems to have more consensus area for social opinion because $\gamma$ is stable and consistent. In other words, it means that social opinion is likely to achieve the consensus if it was given enough time with stable positive orientation.(Absolutely, if the volatility is too low or too high, it would not make consensus.) \\ 
 Through these three comparisons and analysis, we can provide three conditions that increase the likelihood of consensus with social opinion. Firstly, Leader Model shows, if reducing the nodes of the decision-making layer and increasing the external edges, we can increase the probability of social opinion consensus. Secondly, Different Structural Networks Model shows, social opinion layer requires more internal edges than opposite layer in order to make positive consensus. Because increasing the internal edges of social opinion is likely to have more tendency to keep social opinion states. Thirdly, the Dynamics steps-increased Model shows, if the interaction has given enough time, there is a high possibility of consensus with social opinion.
 \section{Conclusion}
