@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.2)  24 APR 2019 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.2)  24 APR 2019 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**competing_layer4.tex
-(./competing_layer4.tex
+**competing_layer5.tex
+(./competing_layer5.tex
 LaTeX2e <2018-12-01>
 (./cccconf.cls
 Document Class: cccconf 2010/02/10
@@ -645,8 +645,8 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count288
 \@thisrulewidth=\dimen195
 )
-(./competing_layer4.aux)
-\openout1 = `competing_layer4.aux'.
+(./competing_layer5.aux)
+\openout1 = `competing_layer5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
@@ -828,78 +828,70 @@ Overfull \hbox (40.5306pt too wide) detected at line 118
 <FIG1.png, id=17, 526.30214pt x 295.02pt>
 File: FIG1.png Graphic file (type png)
 <use FIG1.png>
-Package pdftex.def Info: FIG1.png  used on input line 133.
+Package pdftex.def Info: FIG1.png  used on input line 132.
 (pdftex.def)             Requested size: 240.42593pt x 134.77pt.
 <FIG2.png, id=19, 2002.48125pt x 831.105pt>
 File: FIG2.png Graphic file (type png)
 <use FIG2.png>
-Package pdftex.def Info: FIG2.png  used on input line 154.
+Package pdftex.def Info: FIG2.png  used on input line 153.
 (pdftex.def)             Requested size: 500.7687pt x 207.82646pt.
 [2 <./FIG1.png>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 179.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 178.
 <FIG3.png, id=27, 775.39688pt x 647.41875pt>
 File: FIG3.png Graphic file (type png)
 <use FIG3.png>
 Package pdftex.def Info: FIG3.png  used on input line 186.
 (pdftex.def)             Requested size: 240.42593pt x 200.73724pt.
-<FIG5.png, id=28, 668.4975pt x 506.6127pt>
+ [3 <./FIG2.png> <./FIG3.png>]
+<FIG4.png, id=33, 697.4055pt x 510.2262pt>
+File: FIG4.png Graphic file (type png)
+<use FIG4.png>
+Package pdftex.def Info: FIG4.png  used on input line 205.
+(pdftex.def)             Requested size: 240.42593pt x 175.89587pt.
+<FIG5.png, id=34, 555.0336pt x 393.1488pt>
 File: FIG5.png Graphic file (type png)
 <use FIG5.png>
-Package pdftex.def Info: FIG5.png  used on input line 196.
-(pdftex.def)             Requested size: 240.42593pt x 182.20262pt.
-
-
-LaTeX Warning: Text page 3 contains only floats.
-
-[3 <./FIG2.png> <./FIG3.png> <./FIG5.png>]
-<FIG6.png, id=35, 623.32875pt x 420.82219pt>
+Package pdftex.def Info: FIG5.png  used on input line 215.
+(pdftex.def)             Requested size: 240.42593pt x 170.29846pt.
+<FIG6.png, id=35, 462.528pt x 346.896pt>
 File: FIG6.png Graphic file (type png)
 <use FIG6.png>
-Package pdftex.def Info: FIG6.png  used on input line 212.
-(pdftex.def)             Requested size: 240.42593pt x 162.31563pt.
-<FIG7.png, id=36, 462.528pt x 346.896pt>
-File: FIG7.png Graphic file (type png)
-<use FIG7.png>
-Package pdftex.def Info: FIG7.png  used on input line 225.
+Package pdftex.def Info: FIG6.png  used on input line 228.
 (pdftex.def)             Requested size: 240.42593pt x 180.32343pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4 <./FIG6.png>]
-Underfull \hbox (badness 5050) in paragraph at lines 326--327
+ [4 <./FIG4.png> <./FIG5.png> <./FIG6.png>]
+Underfull \hbox (badness 5050) in paragraph at lines 305--306
 \OT1/ptm/m/it/9 In-ter-con-nected Net-work\OT1/ptm/m/n/9 , PLoS ONE. 11. 10.137
 1/jour-
  []
 
-[5 <./FIG7.png>] [6] (./competing_layer4.aux) ) 
+[5] (./competing_layer5.aux) ) 
 Here is how much of TeX's memory you used:
- 16040 strings out of 492616
- 280311 string characters out of 6130865
- 473525 words of memory out of 5000000
- 19731 multiletter control sequences out of 15000+600000
+ 16038 strings out of 492616
+ 280288 string characters out of 6130865
+ 469525 words of memory out of 5000000
+ 19729 multiletter control sequences out of 15000+600000
  560369 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,15n,63p,1512b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/usr/texlive/2018/texmf-dist/
-fonts/enc/dvips/base/8r.enc}<c:/usr/texlive/2018/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfo
-nts/cmextra/cmex7.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi5.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6
-.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
-c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/usr
-/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/usr/texliv
-e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/usr/texlive/2018/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/usr/texlive/2018/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/usr/texlive/2018/texmf-dist/
-fonts/type1/urw/times/utmb8a.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/ur
-w/times/utmr8a.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8
-a.pfb>
-Output written on competing_layer4.pdf (6 pages, 1521291 bytes).
+{c:/usr/texlive/2018/texmf-dist/fonts/enc/dvips/b
+ase/8r.enc}<c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7
+.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/us
+r/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/usr/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/usr/texlive/20
+18/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/usr/texlive/2018/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/usr/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/usr/texlive/2018/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/t
+imes/utmb8a.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pf
+b><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on competing_layer5.pdf (5 pages, 1520559 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
