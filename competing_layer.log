@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.2)  1 APR 2019 11:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.3)  23 APR 2019 07:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -31,14 +31,6 @@ Package: balance 1999/02/23 4.3 (PWD)
 (c:/usr/texlive/2018/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 64 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
-
 (c:/usr/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -55,10 +47,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (c:/usr/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(c:/usr/texlive/2018/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+(c:/usr/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
@@ -144,16 +136,22 @@ Package etexcmds Info: Could not find \expanded.
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode not found.
+Package pdftexcmds Info: \pdfdraftmode found.
 )
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
 
-Package epstopdf Warning: Drivers other than `pdftex' and `luatex' are not supp
-orted.
-
-)) (c:/usr/texlive/2018/texmf-dist/tex/latex/comment/comment.sty
+(c:/usr/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(c:/usr/texlive/2018/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
 
 Excluding comment 'comment')
@@ -186,7 +184,7 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 (c:/usr/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: xetex.def on input line 147.
+Package color Info: Driver file: pdftex.def on input line 147.
 )
 (c:/usr/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.sty
 (c:/usr/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -236,62 +234,65 @@ Package: expl3 2018-12-12 L3 programming layer (code)
 \c__fp_Bigg_leading_shift_int=\count117
 \c__fp_Bigg_middle_shift_int=\count118
 \c__fp_Bigg_trailing_shift_int=\count119
-\g__fp_array_int=\count120
-\l__fp_array_loop_int=\count121
-\l__sort_length_int=\count122
-\l__sort_min_int=\count123
-\l__sort_top_int=\count124
-\l__sort_max_int=\count125
-\l__sort_true_max_int=\count126
-\l__sort_block_int=\count127
-\l__sort_begin_int=\count128
-\l__sort_end_int=\count129
-\l__sort_A_int=\count130
-\l__sort_B_int=\count131
-\l__sort_C_int=\count132
-\l__tl_analysis_normal_int=\count133
-\l__tl_analysis_index_int=\count134
-\l__tl_analysis_nesting_int=\count135
-\l__tl_analysis_type_int=\count136
-\l__regex_internal_a_int=\count137
-\l__regex_internal_b_int=\count138
-\l__regex_internal_c_int=\count139
-\l__regex_balance_int=\count140
-\l__regex_group_level_int=\count141
-\l__regex_mode_int=\count142
-\c__regex_cs_in_class_mode_int=\count143
-\c__regex_cs_mode_int=\count144
-\l__regex_catcodes_int=\count145
-\l__regex_default_catcodes_int=\count146
-\c__regex_catcode_L_int=\count147
-\c__regex_catcode_O_int=\count148
-\c__regex_catcode_A_int=\count149
-\c__regex_all_catcodes_int=\count150
-\l__regex_show_lines_int=\count151
-\l__regex_min_state_int=\count152
-\l__regex_max_state_int=\count153
-\l__regex_left_state_int=\count154
-\l__regex_right_state_int=\count155
-\l__regex_capturing_group_int=\count156
-\l__regex_min_pos_int=\count157
-\l__regex_max_pos_int=\count158
-\l__regex_curr_pos_int=\count159
-\l__regex_start_pos_int=\count160
-\l__regex_success_pos_int=\count161
-\l__regex_curr_char_int=\count162
-\l__regex_curr_catcode_int=\count163
-\l__regex_last_char_int=\count164
-\l__regex_case_changed_char_int=\count165
-\l__regex_curr_state_int=\count166
-\l__regex_step_int=\count167
-\l__regex_min_active_int=\count168
-\l__regex_max_active_int=\count169
-\l__regex_replacement_csnames_int=\count170
-\l__regex_match_count_int=\count171
-\l__regex_min_submatch_int=\count172
-\l__regex_submatch_int=\count173
-\l__regex_zeroth_submatch_int=\count174
-\g__regex_trace_regex_int=\count175
+\c__kernel_randint_max_int=\count120
+\g__fp_array_int=\count121
+\l__fp_array_loop_int=\count122
+\l__sort_length_int=\count123
+\l__sort_min_int=\count124
+\l__sort_top_int=\count125
+\l__sort_max_int=\count126
+\l__sort_true_max_int=\count127
+\l__sort_block_int=\count128
+\l__sort_begin_int=\count129
+\l__sort_end_int=\count130
+\l__sort_A_int=\count131
+\l__sort_B_int=\count132
+\l__sort_C_int=\count133
+\l__tl_analysis_normal_int=\count134
+\l__tl_analysis_index_int=\count135
+\l__tl_analysis_nesting_int=\count136
+\l__tl_analysis_type_int=\count137
+\l__regex_internal_a_int=\count138
+\l__regex_internal_b_int=\count139
+\l__regex_internal_c_int=\count140
+\l__regex_balance_int=\count141
+\l__regex_group_level_int=\count142
+\l__regex_mode_int=\count143
+\c__regex_cs_in_class_mode_int=\count144
+\c__regex_cs_mode_int=\count145
+\l__regex_catcodes_int=\count146
+\l__regex_default_catcodes_int=\count147
+\c__regex_catcode_D_int=\count148
+\c__regex_catcode_S_int=\count149
+\c__regex_catcode_L_int=\count150
+\c__regex_catcode_O_int=\count151
+\c__regex_catcode_A_int=\count152
+\c__regex_all_catcodes_int=\count153
+\l__regex_show_lines_int=\count154
+\l__regex_min_state_int=\count155
+\l__regex_max_state_int=\count156
+\l__regex_left_state_int=\count157
+\l__regex_right_state_int=\count158
+\l__regex_capturing_group_int=\count159
+\l__regex_min_pos_int=\count160
+\l__regex_max_pos_int=\count161
+\l__regex_curr_pos_int=\count162
+\l__regex_start_pos_int=\count163
+\l__regex_success_pos_int=\count164
+\l__regex_curr_char_int=\count165
+\l__regex_curr_catcode_int=\count166
+\l__regex_last_char_int=\count167
+\l__regex_case_changed_char_int=\count168
+\l__regex_curr_state_int=\count169
+\l__regex_step_int=\count170
+\l__regex_min_active_int=\count171
+\l__regex_max_active_int=\count172
+\l__regex_replacement_csnames_int=\count173
+\l__regex_match_count_int=\count174
+\l__regex_min_submatch_int=\count175
+\l__regex_submatch_int=\count176
+\l__regex_zeroth_submatch_int=\count177
+\g__regex_trace_regex_int=\count178
 \c_empty_box=\box29
 \l_tmpa_box=\box30
 \l_tmpb_box=\box31
@@ -333,32 +334,33 @@ Package: expl3 2018-12-12 L3 programming layer (code)
 \l__coffin_top_corner_dim=\dimen150
 \l__coffin_scaled_total_height_dim=\dimen151
 \l__coffin_scaled_width_dim=\dimen152
+\l__seq_internal_a_int=\count179
+\l__seq_internal_b_int=\count180
 )
-(c:/usr/texlive/2018/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
-File: l3xdvidpfmx.def 2018-12-12 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count176
-\g__driver_pdf_object_int=\count177
+(c:/usr/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2018-12-12 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count181
 ))
 (c:/usr/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2018-10-17 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count178
-\g__xparse_grabber_int=\count179
-\l__xparse_m_args_int=\count180
-\l__xparse_mandatory_args_int=\count181
-\l__xparse_v_nesting_int=\count182
+\l__xparse_current_arg_int=\count182
+\g__xparse_grabber_int=\count183
+\l__xparse_m_args_int=\count184
+\l__xparse_mandatory_args_int=\count185
+\l__xparse_v_nesting_int=\count186
 )
 Package: lipsum 2018/11/24 v2.1a 150 paragraphs of Lorem Ipsum dummy text
 )
 (c:/usr/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2018/11/09 v1.8u multicolumn formatting (FMi)
-\c@tracingmulticols=\count183
+\c@tracingmulticols=\count187
 \mult@box=\box44
 \multicol@leftmargin=\dimen153
-\c@unbalance=\count184
-\c@collectmore=\count185
-\doublecol@number=\count186
-\multicoltolerance=\count187
-\multicolpretolerance=\count188
+\c@unbalance=\count188
+\c@collectmore=\count189
+\doublecol@number=\count190
+\multicoltolerance=\count191
+\multicolpretolerance=\count192
 \full@width=\dimen154
 \page@free=\dimen155
 \premulticols=\dimen156
@@ -389,14 +391,14 @@ Package: multicol 2018/11/09 v1.8u multicolumn formatting (FMi)
 \@tempa=\box65
 \@tempa=\box66
 \@tempa=\box67
-\c@columnbadness=\count189
-\c@finalcolumnbadness=\count190
+\c@columnbadness=\count193
+\c@finalcolumnbadness=\count194
 \last@try=\dimen159
 \multicolovershoot=\dimen160
 \multicolundershoot=\dimen161
 \mult@nat@firstbox=\box68
 \colbreak@box=\box69
-\mc@col@check@num=\count191
+\mc@col@check@num=\count195
 )
 (c:/usr/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -429,13 +431,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (c:/usr/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count192
+\inf@bad=\count196
 LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count193
-\leftroot@=\count194
+\uproot@=\count197
+\leftroot@=\count198
 LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count195
-\DOTSCASE@=\count196
+\classnum@=\count199
+\DOTSCASE@=\count266
 LaTeX Info: Redefining \ldots on input line 482.
 LaTeX Info: Redefining \dots on input line 485.
 LaTeX Info: Redefining \cdots on input line 606.
@@ -444,15 +446,15 @@ LaTeX Info: Redefining \cdots on input line 606.
 \big@size=\dimen164
 LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count197
-\c@MaxMatrixCols=\count198
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
 \dotsspace@=\muskip16
-\c@parentequation=\count199
-\dspbrk@lvl=\count266
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
 \tag@help=\toks19
-\row@=\count267
-\column@=\count268
-\maxfields@=\count269
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
 \andhelp@=\toks20
 \eqnshift@=\dimen165
 \alignsep@=\dimen166
@@ -478,7 +480,7 @@ LaTeX Info: Redefining \bm on input line 207.
 (c:/usr/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip56
-\multirow@cntb=\count270
+\multirow@cntb=\count274
 \multirow@dima=\skip57
 \bigstrutjot=\dimen171
 )
@@ -487,15 +489,15 @@ Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
 
 (c:/usr/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count271
-\calc@Bcount=\count272
+\calc@Acount=\count275
+\calc@Bcount=\count276
 \calc@Adimen=\dimen172
 \calc@Bdimen=\dimen173
 \calc@Askip=\skip58
 \calc@Bskip=\skip59
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count273
+\calc@Ccount=\count277
 \calc@Cskip=\skip60
 )
 (c:/usr/texlive/2018/texmf-dist/tex/latex/mathtools/mhsetup.sty
@@ -505,7 +507,7 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count274
+\g_MT_multlinerow_int=\count278
 \l_MT_multwidth_dim=\dimen174
 \origjot=\skip61
 \l_MT_shortvdotswithinadjustabove_dim=\dimen175
@@ -523,6 +525,70 @@ Package: MULEenc 2015/04/18 4.8.4
 )
 (c:/usr/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.enc
 File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
 )
 LaTeX Info: Redefining \selectfont on input line 755.
 \CJK@indent=\box72
@@ -534,14 +600,13 @@ Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
 )
 (c:/usr/texlive/2018/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count275
+\c@float@type=\count279
 \float@exts=\toks23
 \float@box=\box73
 \@float@everytoks=\toks24
 \@floatcapt=\box74
 )
 (c:/usr/texlive/2018/texmf-dist/tex/latex/algorithms/algorithm.sty
-Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
@@ -549,15 +614,14 @@ nment
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks25
-\c@algorithm=\count276
+\c@algorithm=\count280
 )
 (c:/usr/texlive/2018/texmf-dist/tex/latex/algorithms/algorithmic.sty
-Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count277
-\c@ALC@line=\count278
-\c@ALC@rem=\count279
-\c@ALC@depth=\count280
+\c@ALC@unique=\count281
+\c@ALC@line=\count282
+\c@ALC@rem=\count283
+\c@ALC@depth=\count284
 \ALC@tlm=\skip62
 \algorithmicindent=\skip63
 )
@@ -573,12 +637,12 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \cmidrulesep=\dimen190
 \cmidrulekern=\dimen191
 \defaultaddspace=\dimen192
-\@cmidla=\count281
-\@cmidlb=\count282
+\@cmidla=\count285
+\@cmidlb=\count286
 \@aboverulesep=\dimen193
 \@belowrulesep=\dimen194
-\@thisruleclass=\count283
-\@lastruleclass=\count284
+\@thisruleclass=\count287
+\@lastruleclass=\count288
 \@thisrulewidth=\dimen195
 )
 (./competing_layer.aux)
@@ -591,8 +655,6 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -662,17 +724,29 @@ LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Try loading font information for TU+ptm on input line 34.
-LaTeX Font Info:    No file TUptm.fd. on input line 34.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 34.
 
-
-LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 34.
-
+(c:/usr/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(c:/usr/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count289
+\scratchdimen=\dimen196
+\scratchbox=\box75
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen197
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks27
+)
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
+* driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -706,10 +780,8 @@ LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-LaTeX Font Warning: Font shape `TU/ptm/bx/n' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 56.
-
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Try loading font information for U+msa on input line 57.
 (c:/usr/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -719,9 +791,13 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 57.
 (c:/usr/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
+ [1{c:/usr/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
@@ -734,63 +810,120 @@ Overfull \hbox (13.6559pt too wide) detected at line 95
 []
  []
 
-File: FIG1.png Graphic file (type bmp)
-<FIG1.png>
-[2]
-File: FIG2.png Graphic file (type bmp)
-<FIG2.png>
-File: FIG3.png Graphic file (type bmp)
-<FIG3.png>
-File: FIG4.png Graphic file (type bmp)
-<FIG4.png>
+<FIG1.png, id=11, 526.30214pt x 295.02pt>
+File: FIG1.png Graphic file (type png)
+<use FIG1.png>
+Package pdftex.def Info: FIG1.png  used on input line 119.
+(pdftex.def)             Requested size: 240.42593pt x 134.77pt.
+[2 <./FIG1.png>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 129.
+<FIG2.png, id=24, 458.46281pt x 683.55376pt>
+File: FIG2.png Graphic file (type png)
+<use FIG2.png>
+Package pdftex.def Info: FIG2.png  used on input line 135.
+(pdftex.def)             Requested size: 240.42593pt x 358.46432pt.
+<FIG3.png, id=25, 439.6425pt x 607.51968pt>
+File: FIG3.png Graphic file (type png)
+<use FIG3.png>
+Package pdftex.def Info: FIG3.png  used on input line 141.
+(pdftex.def)             Requested size: 240.42593pt x 332.22723pt.
+<FIG4.png, id=26, 481.04718pt x 543.53062pt>
+File: FIG4.png Graphic file (type png)
+<use FIG4.png>
+Package pdftex.def Info: FIG4.png  used on input line 148.
+(pdftex.def)             Requested size: 240.42593pt x 271.65681pt.
+<FIG5.png, id=27, 383.18156pt x 543.53062pt>
+File: FIG5.png Graphic file (type png)
+<use FIG5.png>
+Package pdftex.def Info: FIG5.png  used on input line 157.
+(pdftex.def)             Requested size: 240.42593pt x 341.04106pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-File: FIG5.png Graphic file (type bmp)
-<FIG5.png>
+ [3 <./FIG2.png> <./FIG3.png>]
+<FIG6.png, id=33, 927.465pt x 661.72218pt>
+File: FIG6.png Graphic file (type png)
+<use FIG6.png>
+Package pdftex.def Info: FIG6.png  used on input line 165.
+(pdftex.def)             Requested size: 240.42593pt x 171.53885pt.
+<FIG7.png, id=34, 928.21782pt x 665.48625pt>
+File: FIG7.png Graphic file (type png)
+<use FIG7.png>
+Package pdftex.def Info: FIG7.png  used on input line 172.
+(pdftex.def)             Requested size: 240.42593pt x 172.37245pt.
+<FIG8.png, id=35, 457.71pt x 660.96938pt>
+File: FIG8.png Graphic file (type png)
+<use FIG8.png>
+Package pdftex.def Info: FIG8.png  used on input line 181.
+(pdftex.def)             Requested size: 240.42593pt x 347.19566pt.
 
-Underfull \vbox (badness 6542) has occurred while \output is active []
+Underfull \vbox (badness 6173) has occurred while \output is active []
 
- [3]
-File: FIG6.png Graphic file (type bmp)
-<FIG6.png>
-File: FIG7.png Graphic file (type bmp)
-<FIG7.png>
-File: FIG8.png Graphic file (type bmp)
-<FIG8.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 6188) has occurred while \output is active []
-
- [4]
-File: FIG9.png Graphic file (type bmp)
-<FIG9.png>
-File: FIG10.png Graphic file (type bmp)
-<FIG10.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5]
-[6]
-Underfull \hbox (badness 5260) in paragraph at lines 242--243
-\TU/ptm/bx/n/9 flicts: A statistical physics model, Physica A,
+ [4 <./FIG4.png> <./FIG5.png> <./FIG6.png>]
+<FIG9.png, id=42, 819.06pt x 652.68843pt>
+File: FIG9.png Graphic file (type png)
+<use FIG9.png>
+Package pdftex.def Info: FIG9.png  used on input line 190.
+(pdftex.def)             Requested size: 240.42593pt x 191.58533pt.
+<FIG10.png, id=43, 965.10562pt x 511.15968pt>
+File: FIG10.png Graphic file (type png)
+<use FIG10.png>
+Package pdftex.def Info: FIG10.png  used on input line 197.
+(pdftex.def)             Requested size: 500.7687pt x 265.22737pt.
+ [5 <./FIG7.png> <./FIG8.png> <./FIG9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+\OT1/ptm/m/n/9 com-pe-ti-tion in mul-ti-layer net-works, EPL(Europhysics
  []
 
-[7] (./competing_layer.aux)
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+\OT1/ptm/m/n/9 Let-ters) 102, 16002, URL http://stacks.iop.org/0295-
+ []
 
- )
-(\end occurred when \ifx on line 161 was incomplete) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+\OT1/ptm/m/n/9 ter-con-nected Net-works. PLoS ONE. 11. 10.1371/jour-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+[]\OT1/ptm/m/n/9 H.T. Diep et al. Dy-nam-ics of two-group con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\OT1/ptm/m/n/9 flicts: A sta-tis-ti-cal physics model, Phys-ica A,
+ []
+
+[6] [7
+
+ <./FIG10.png>] (./competing_layer.aux) ) 
 Here is how much of TeX's memory you used:
- 15477 strings out of 492933
- 273443 string characters out of 6134842
- 470083 words of memory out of 5000000
- 19330 multiletter control sequences out of 15000+600000
- 544265 words of font info for 75 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 42i,14n,40p,1861b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 16019 strings out of 492616
+ 279784 string characters out of 6130865
+ 470523 words of memory out of 5000000
+ 19709 multiletter control sequences out of 15000+600000
+ 557001 words of font info for 85 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,14n,63p,1861b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/usr/texlive/2018/texmf-dist/fonts/
+enc/dvips/base/8r.enc}<c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmex10.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+5.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
+<c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/us
+r/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/usr/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/usr/texlive/20
+18/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/usr/texlive/2018/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/usr/texlive/2018/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/usr/texlive/2018/texmf-dist/font
+s/type1/urw/times/utmb8a.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/ti
+mes/utmr8a.pfb>
+Output written on competing_layer.pdf (7 pages, 2788214 bytes).
+PDF statistics:
+ 98 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on competing_layer.pdf (7 pages).
