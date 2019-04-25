@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.2)  24 APR 2019 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.3)  23 APR 2019 23:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -648,83 +648,83 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 (./competing_layer4.aux)
 \openout1 = `competing_layer4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 34.
 
 (c:/usr/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -781,39 +781,29 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
-LaTeX Font Info:    Try loading font information for U+msa on input line 58.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+LaTeX Font Info:    Try loading font information for U+msa on input line 61.
 (c:/usr/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 58.
+LaTeX Font Info:    Try loading font information for U+msb on input line 61.
 
 (c:/usr/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 63.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
 
-Overfull \hbox (16.9473pt too wide) detected at line 79
+Overfull \hbox (16.9473pt too wide) detected at line 83
 []
  []
 
 
-Overfull \hbox (17.2401pt too wide) detected at line 91
-[]
- []
-
-
-Overfull \hbox (16.24069pt too wide) detected at line 99
-[]
- []
-
-
-Overfull \hbox (16.44904pt too wide) detected at line 104
+Overfull \hbox (17.2401pt too wide) detected at line 95
 []
  []
 
@@ -821,85 +811,94 @@ Overfull \hbox (16.44904pt too wide) detected at line 104
 
 
 ]
-Overfull \hbox (40.5306pt too wide) detected at line 118
+Overfull \hbox (16.24069pt too wide) detected at line 103
+[]
+ []
+
+
+Overfull \hbox (16.44904pt too wide) detected at line 108
 []
  []
 
 <FIG1.png, id=17, 526.30214pt x 295.02pt>
 File: FIG1.png Graphic file (type png)
 <use FIG1.png>
-Package pdftex.def Info: FIG1.png  used on input line 133.
+Package pdftex.def Info: FIG1.png  used on input line 137.
 (pdftex.def)             Requested size: 240.42593pt x 134.77pt.
 <FIG2.png, id=19, 2002.48125pt x 831.105pt>
 File: FIG2.png Graphic file (type png)
 <use FIG2.png>
-Package pdftex.def Info: FIG2.png  used on input line 154.
+Package pdftex.def Info: FIG2.png  used on input line 158.
 (pdftex.def)             Requested size: 500.7687pt x 207.82646pt.
 [2 <./FIG1.png>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 179.
-<FIG3.png, id=27, 775.39688pt x 647.41875pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 183.
+<FIG3.png, id=25, 385.44pt x 319.94531pt>
 File: FIG3.png Graphic file (type png)
 <use FIG3.png>
-Package pdftex.def Info: FIG3.png  used on input line 186.
-(pdftex.def)             Requested size: 240.42593pt x 200.73724pt.
-<FIG5.png, id=28, 668.4975pt x 506.6127pt>
+Package pdftex.def Info: FIG3.png  used on input line 190.
+(pdftex.def)             Requested size: 240.42593pt x 199.56987pt.
+<FIG4.png, id=26, 998.22937pt x 551.05875pt>
+File: FIG4.png Graphic file (type png)
+<use FIG4.png>
+Package pdftex.def Info: FIG4.png  used on input line 196.
+(pdftex.def)             Requested size: 500.7687pt x 276.4368pt.
+<FIG5.png, id=27, 456.95718pt x 361.35pt>
 File: FIG5.png Graphic file (type png)
 <use FIG5.png>
-Package pdftex.def Info: FIG5.png  used on input line 196.
-(pdftex.def)             Requested size: 240.42593pt x 182.20262pt.
-
-
-LaTeX Warning: Text page 3 contains only floats.
-
-[3 <./FIG2.png> <./FIG3.png> <./FIG5.png>]
-<FIG6.png, id=35, 623.32875pt x 420.82219pt>
-File: FIG6.png Graphic file (type png)
-<use FIG6.png>
-Package pdftex.def Info: FIG6.png  used on input line 212.
-(pdftex.def)             Requested size: 240.42593pt x 162.31563pt.
-<FIG7.png, id=36, 462.528pt x 346.896pt>
-File: FIG7.png Graphic file (type png)
-<use FIG7.png>
-Package pdftex.def Info: FIG7.png  used on input line 225.
-(pdftex.def)             Requested size: 240.42593pt x 180.32343pt.
+Package pdftex.def Info: FIG5.png  used on input line 207.
+(pdftex.def)             Requested size: 240.42593pt x 190.11961pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4 <./FIG6.png>]
-Underfull \hbox (badness 5050) in paragraph at lines 326--327
+ [3 <./FIG2.png> <./FIG3.png>]
+<FIG6.png, id=35, 452.4403pt x 361.35pt>
+File: FIG6.png Graphic file (type png)
+<use FIG6.png>
+Package pdftex.def Info: FIG6.png  used on input line 220.
+(pdftex.def)             Requested size: 240.42593pt x 192.01634pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./FIG4.png> <./FIG5.png>]
+<FIG7.png, id=41, 452.4403pt x 361.35pt>
+File: FIG7.png Graphic file (type png)
+<use FIG7.png>
+Package pdftex.def Info: FIG7.png  used on input line 233.
+(pdftex.def)             Requested size: 240.42593pt x 192.01634pt.
+ [5 <./FIG6.png> <./FIG7.png>]
+Underfull \hbox (badness 5050) in paragraph at lines 361--362
 \OT1/ptm/m/it/9 In-ter-con-nected Net-work\OT1/ptm/m/n/9 , PLoS ONE. 11. 10.137
 1/jour-
  []
 
-[5 <./FIG7.png>] [6] (./competing_layer4.aux) ) 
+[6] (./competing_layer4.aux) ) 
 Here is how much of TeX's memory you used:
- 16040 strings out of 492616
- 280311 string characters out of 6130865
- 473525 words of memory out of 5000000
- 19731 multiletter control sequences out of 15000+600000
+ 16046 strings out of 492616
+ 280376 string characters out of 6130865
+ 472525 words of memory out of 5000000
+ 19736 multiletter control sequences out of 15000+600000
  560369 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,15n,63p,1512b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/usr/texlive/2018/texmf-dist/
-fonts/enc/dvips/base/8r.enc}<c:/usr/texlive/2018/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfo
-nts/cmextra/cmex7.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi5.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6
-.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
-c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/usr
-/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/usr/texliv
-e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/usr/texlive/2018/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/usr/texlive/2018/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/usr/texlive/2018/texmf-dist/
-fonts/type1/urw/times/utmb8a.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/ur
-w/times/utmr8a.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8
-a.pfb>
-Output written on competing_layer4.pdf (6 pages, 1521291 bytes).
+ 42i,15n,63p,1480b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/usr/texlive/2018/texmf-dist/fonts/enc/dvips/b
+ase/8r.enc}<c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7
+.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<c:/usr/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/us
+r/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/usr/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/usr/texlive/20
+18/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/usr/texlive/2018/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/usr/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/usr/texlive/2018/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/t
+imes/utmb8a.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pf
+b><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on competing_layer4.pdf (6 pages, 1364090 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 95 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
