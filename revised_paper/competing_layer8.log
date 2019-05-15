@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.2)  10 MAY 2019 15:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.2)  13 MAY 2019 21:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**competing_layer7.tex
-(./competing_layer7.tex
+**competing_layer8.tex
+(./competing_layer8.tex
 LaTeX2e <2018-12-01>
 (./cccconf.cls
 Document Class: cccconf 2010/02/10
@@ -645,8 +645,8 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count288
 \@thisrulewidth=\dimen195
 )
-(./competing_layer7.aux)
-\openout1 = `competing_layer7.aux'.
+(./competing_layer8.aux)
+\openout1 = `competing_layer8.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
@@ -861,7 +861,7 @@ Underfull \hbox (badness 5050) in paragraph at lines 305--306
 1/jour-
  []
 
-[5] (./competing_layer7.aux) ) 
+[5] (./competing_layer8.aux) ) 
 Here is how much of TeX's memory you used:
  16041 strings out of 492616
  280336 string characters out of 6130865
@@ -884,7 +884,7 @@ type1/public/amsfonts/cm/cmsy10.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmsy7.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/t
 imes/utmb8a.pfb><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pf
 b><c:/usr/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on competing_layer7.pdf (5 pages, 1520053 bytes).
+Output written on competing_layer8.pdf (5 pages, 1520053 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
